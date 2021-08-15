@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>09DD7B59-E297-4FB8-ADD3-DC21EA050D0C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>09DD7B59-E297-4FB8-ADD3-DC21EA050D0C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>LeetcodePlayground</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LeetcodePlayground (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build LeetcodePlayground (Playground)</string>
+			<key>timeStartedRecording</key>
+			<real>650728472.76222396</real>
+			<key>timeStoppedRecording</key>
+			<real>650728472.83766103</real>
+			<key>title</key>
+			<string>Build LeetcodePlayground (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>09DD7B59-E297-4FB8-ADD3-DC21EA050D0C</string>
+		</dict>
+		<key>37066C69-ABC0-4EA4-848C-4007A9A520C1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>37066C69-ABC0-4EA4-848C-4007A9A520C1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>LeetcodePlayground</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LeetcodePlayground (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build LeetcodePlayground (Playground)</string>
+			<key>timeStartedRecording</key>
+			<real>650727977.62760103</real>
+			<key>timeStoppedRecording</key>
+			<real>650727977.92142498</real>
+			<key>title</key>
+			<string>Build LeetcodePlayground (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>37066C69-ABC0-4EA4-848C-4007A9A520C1</string>
+		</dict>
+		<key>532BF9B9-623F-43D3-9870-4D7B184E6AC7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>532BF9B9-623F-43D3-9870-4D7B184E6AC7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>LeetcodePlayground</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LeetcodePlayground (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build LeetcodePlayground (Playground)</string>
+			<key>timeStartedRecording</key>
+			<real>650728476.94772899</real>
+			<key>timeStoppedRecording</key>
+			<real>650728476.99466503</real>
+			<key>title</key>
+			<string>Build LeetcodePlayground (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>532BF9B9-623F-43D3-9870-4D7B184E6AC7</string>
+		</dict>
+		<key>546169F5-7DD9-46FF-82BA-088897F5915A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>546169F5-7DD9-46FF-82BA-088897F5915A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>LeetcodePlayground</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LeetcodePlayground (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build LeetcodePlayground (Playground)</string>
+			<key>timeStartedRecording</key>
+			<real>650730022.21059597</real>
+			<key>timeStoppedRecording</key>
+			<real>650730022.34675896</real>
+			<key>title</key>
+			<string>Build LeetcodePlayground (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>546169F5-7DD9-46FF-82BA-088897F5915A</string>
+		</dict>
+		<key>CDDB4544-0227-40FE-820F-4A9CF5C38BB6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CDDB4544-0227-40FE-820F-4A9CF5C38BB6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>LeetcodePlayground</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LeetcodePlayground (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build LeetcodePlayground (Playground)</string>
+			<key>timeStartedRecording</key>
+			<real>650730069.69028902</real>
+			<key>timeStoppedRecording</key>
+			<real>650730069.86517</real>
+			<key>title</key>
+			<string>Build LeetcodePlayground (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>CDDB4544-0227-40FE-820F-4A9CF5C38BB6</string>
+		</dict>
+		<key>E2BE51DC-1DB0-47AA-973F-34A21FAC13B2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E2BE51DC-1DB0-47AA-973F-34A21FAC13B2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>LeetcodePlayground</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LeetcodePlayground (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build LeetcodePlayground (Playground)</string>
+			<key>timeStartedRecording</key>
+			<real>650728445.884619</real>
+			<key>timeStoppedRecording</key>
+			<real>650728446.18045104</real>
+			<key>title</key>
+			<string>Build LeetcodePlayground (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>E2BE51DC-1DB0-47AA-973F-34A21FAC13B2</string>
+		</dict>
+		<key>F9015245-1AB1-4D16-AEC0-06602A3B32D4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F9015245-1AB1-4D16-AEC0-06602A3B32D4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>LeetcodePlayground</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LeetcodePlayground (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build LeetcodePlayground (Playground)</string>
+			<key>timeStartedRecording</key>
+			<real>650728471.86651695</real>
+			<key>timeStoppedRecording</key>
+			<real>650728472.14154005</real>
+			<key>title</key>
+			<string>Build LeetcodePlayground (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>F9015245-1AB1-4D16-AEC0-06602A3B32D4</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

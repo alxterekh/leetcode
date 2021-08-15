@@ -1,7 +1,0 @@
-version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
-options: "3f7c410cc5a7ab12460427e0ba07f29c"
-build_time: [1629034870, 510465000]
-inputs:
-  "/Users/a.terekhov/Documents/leetcode/LeetcodePlayground.playground/Sources/3823.swift": [1629034856, 78365857]
-  "/Users/a.terekhov/Documents/leetcode/LeetcodePlayground.playground/Sources/3836.swift": [1629034869, 651055163]
-  "/Users/a.terekhov/Documents/leetcode/LeetcodePlayground.playground/Sources/remove-duplicates-from-sorted-array.swift": [1628529687, 478017362]
